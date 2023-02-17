@@ -1,0 +1,67 @@
+Monstros ordem por nome :
+
+*** Letra A ***
+Advanced Knight D - Lv 182
+Ashigaru
+
+*** Letra B ***
+Bain - Lv 90 = OK
+Beetle - Lv 72 = OK
+Big Cloud Fox - Lv 45 = OK
+Black Kentaurus - Lv 88 = OK
+Blue Snail - Lv 2 = OK
+Bone Fish - Lv 92 = OK
+
+*** Letra C ***
+Cactus - Lv 25 = OK
+Clang - Lv 48 = OK
+Commander Skeleton - Lv 73 = OK
+Cooper Drake - Lv 45 = OK
+
+*** Letra D ***
+Dark Cornian
+Dark Nependeath - Lv 47 = OK
+Dark Rash
+Dark Yeti and Pepe - Lv 82 = OK
+Desert Rabbit M - Lv 21 = OK
+Dual Ghost Pirate - Lv 87 = OK
+
+*** Letra H ***
+Hector - Lv 130 = OK
+Helly - Lv 36 = OK
+Hodori - Lv 50 = OK
+
+Iron Hog - Lv 42 = OK
+
+Jr Wraith - Lv 35 = OK
+
+King Bloctopus
+
+*** Letra L ***
+Ligator - Lv 32 = OK
+Lycanthrope - Lv 80 = OK
+
+Mummydog - Lv 47 = OK
+
+Oblivion Guardian - Lv 128 = OK
+
+Pink Teddy - Lv 32 = OK
+
+*** Letra R ***
+Red Flower Serpent - Lv 45 = OK
+Ribbon Pig - Lv 10 = OK
+
+*** Letra S ***
+Scuba Pepe - Lv 36 = OK
+Skelegon - Lv 110 = OK
+
+TickTock - Lv 40 = OK
+
+*** Letra W ***
+Werewolf - Lv 75 = OK
+Wolf Spider - Lv 80 = OK
+Wooden Mask - Lv 23 = OK
+
+*** Letra Z ***
+Zombie Lupin - Lv 40 = OK
+Zombie Mushroom - Lv 24 = OK
