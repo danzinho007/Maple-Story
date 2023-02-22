@@ -1,0 +1,54 @@
+Monstros ordem pode Level
+
+HP = Vida
+Lv = Level
+-NomeDoMonstro = HP - Exp
+
+Lv 1 : Lv 1 até 10 aqui
+-Snail = 8 - 3
+Lv 1 = mata 5 Snail ( 15 ) pro Lv 2
+Lv 2 = 12 Snail ( 36 ) pro Lv 3
+Lv 3 = 19 Snail ( 57 ) pro Lv 4
+Lv 4 = 31 Snail ( 93 ) pro Lv 5
+Lv 5 = 45 Snail ( 135 ) pro Lv 6
+Total = 112
+Lv 6 = 124 Snail ( 372 ) pro Lv 7
+Total = 248 Snail
+
+2 : Lv 1 até 10 
+-Blue Snail - 15
+-Shroom = 20 - 5
+
+4 : Lv 1 até 10 
+-Stump - 40 - 8
+-Red Snail = 45 - 8
+
+6 : Lv 1 até 10  / 11 até 15
+-Slime = 50 - 10
+
+7 :
+-Pig = 75 - 15
+
+Lv 8 : 10 até 15
+-Orange Mushroom = 80 - 15
+
+Lv 10 : 15 até 20
+-Ribbon Pig = 120 - 20
+-Dark Stump = 250 - 18
+
+Lv 12 :
+-Octopus = 200 - 24
+
+Lv 15 :
+-Bubbling = 240 - 26
+-Green Mushroom = 250 - 26
+
+Lv 17 :
+-Axe Stump = 300 - 30
+
+19 :
+-Ghost Stump = 330 - 33
+
+20 :
+-Blue Mushroom = 350 - 32
+-Stirge = 300 - 33
