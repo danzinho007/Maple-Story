@@ -1,54 +1,68 @@
-Monstros ordem pode Level
+Monstros :
 
-HP = Vida
-Lv = Level
--NomeDoMonstro = HP - Exp
+Monstro    = Lvl - Exp - HP
+Snail      = 01 - 03- 08 ( 100 x 3  = 300 Exp  300 Lv 1 até 6 )
+Blue Snail = 02 - 04- 15 ( 100 x 4  = 400 Exp  700 Lv 6 até 7 )
+Shroom     = 02 - 05- 20 ( 100 x 5  = 500 Exp 1200 Lv 7 até 8 )
+Stump      = 04 - 08- 40 ( 100 x 8  = 800 Exp 2000 Lv 8 até  )
+Red Snail  = 04 - 08- 40 ( 100 x 8  = 800 Exp 2800 )
+Slime      = 06 - 10- 50 ( 100 x 10 = 1000 Exp 3800 )
 
-Lv 1 : Lv 1 até 10 aqui
--Snail = 8 - 3
-Lv 1 = mata 5 Snail ( 15 ) pro Lv 2
-Lv 2 = 12 Snail ( 36 ) pro Lv 3
-Lv 3 = 19 Snail ( 57 ) pro Lv 4
-Lv 4 = 31 Snail ( 93 ) pro Lv 5
-Lv 5 = 45 Snail ( 135 ) pro Lv 6
-Total = 112
-Lv 6 = 124 Snail ( 372 ) pro Lv 7
-Total = 248 Snail
+Monstro              = Level  - Exp   -   HP
+Pig                  =   7 -    15 -      75 Mini Dungeon - Henesys Pig Farm
+Orange Mushroom      =   8 -    15 -      80
+Ribbon Pig           =  10 -    20 -     120
+Octopus              =  12 -    24 -     200
+Bubbling             =  15 -    26 -     240    
+Axe Stump            =  17 -    30 -     300
+Wooden Mask          =  23 -    42 -     500
+Evil Eye             =  27 -    50 -     720
+Brown Teddy          =  30 -    60 -     950
+Fire Boar            =  32 -    60 -    1000
+Ligator              =  32 -    60 -    1200
+Curse Eye            =  35 -    70 -    1250
+Indigo Eye           =  38 -    85 -    1550
+Toy Trojan           =  39 -    92 -    1920
+-BOSS Mano           =  20 -   120 -    2000
 
-2 : Lv 1 até 10 
--Blue Snail - 15
--Shroom = 20 - 5
+Iron Hog             =  42 -    99 -    2200
+Tortie               =  46 -   110 -    2550
+Iron Boar            =  45 -   115 -    2650
+Mummydog             =  47 -   117 -    2750
+Hodori               =  50 -   140 -    3800
+Croco                =  52 -   170 -    3800
+Stone Golem          =  55 -   170 -    4000
+White Fang           =  58 -   220 -    5800
+Slimy ( Undead )     =  63 -   250 -    5800
+Red Drake            =  60 -   220 -    6000
+-BOSS Stumpy         =  35 -   405 -    7000
 
-4 : Lv 1 até 10 
--Stump - 40 - 8
--Red Snail = 45 - 8
+Soul Teddy           =  63 -   245 -    7600
+-BOSS Deo            =  38 -   445 -    7700
+-BOSS Seruf          =  45 -   330 -    7800 
+-BOSS King Slime     =  40 -   800 -    8000 KPQ
+-BOSS Faut           =  50 -   410 -    9800
 
-6 : Lv 1 até 10  / 11 até 15
--Slime = 50 - 10
+MasterSoulTeddy      =  67 -   265 -   11000
+Buffon               =  74 -   340 -   16000 Warped Path of Time 2
+Dual Beetle          =  76 -   370 -   18000
+Hankie               =  78 -   400 -   20000 Steep Hill
+-BOSS King Clang     =  55 -  1210 -   25000
 
-7 :
--Pig = 75 - 15
+Ghost Pirate         =  83 -  1100 -   30000 Ludibrium - Warped Path of Time <3>
+Death Teddy          =  85 -  1300 -   32000 Forgotten Path of Time 3
+MasterDeathTeddy     =  89 -  1720 -   40000 Lost Time
+Bain                 =  90 -  1800 -   45000 WanWan Spa of Hell
+RedDragonTurtle      =  93 -  2100 -   49000 Entrance of Dragon Forest
+Rexton               =  95 -  4104 -   50000 Leafre - Dragon Forest II
+GiganticSpiritViking =  98 -  2600 -   58000 Twisted Time
+Dark Cornian         = 105 -  3700 -   67000 The Hidden Dragon Tomb II
+Dreamy Ghost (Undead)= 100 -  3200 -   68000 Zipangu - Encounter with the Buddha
+Petrifighter         = 110 -  4550 -   80000 Singapore - Ulu City Center (DG)
+Skelosaurus          = 113 -  4750 -   85000 The Restoring Memory
+Crimson Guardian     = 120 -  6100 -  120000
+-BOSS Ravana         = 120 - 1M500k - 35M
 
-Lv 8 : 10 até 15
--Orange Mushroom = 80 - 15
+Imperial Guard       = 143 - 11500 - 9430000
+-BOSS Pink Bean      = 180 - 120M  - 2B 100M
 
-Lv 10 : 15 até 20
--Ribbon Pig = 120 - 20
--Dark Stump = 250 - 18
-
-Lv 12 :
--Octopus = 200 - 24
-
-Lv 15 :
--Bubbling = 240 - 26
--Green Mushroom = 250 - 26
-
-Lv 17 :
--Axe Stump = 300 - 30
-
-19 :
--Ghost Stump = 330 - 33
-
-20 :
--Blue Mushroom = 350 - 32
--Stirge = 300 - 33
