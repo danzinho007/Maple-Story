@@ -1,0 +1,44 @@
+Maple Story DS:
+
+Locais:
+Abandoned Mine 1 / 2 / 3 / 4 / 5 / 7
+Dead Tree Forest 8
+Deep Clock Tower
+Ellinia = Cidade
+Excavation Site's Cam = Cidade
+Excavation Site 1 / 5
+Golem's Temple 1
+Henesys East 1/2/3
+Henesys House
+Inside the Camp
+Kerning City = Cidade
+Magatia Basement 1 / 2
+Magatia Lab 1 
+Perion = Cidade 
+Perion East 1 / 2
+Perion West 2
+Secret Base
+Sleepywood = Cidade
+Sleepywood Temple 
+Sleepy Dungeon 3
+Subway 13
+
+Experiência:
+
+Lv
+01 = 
+05 =
+10 = 
+12 =     1.527
+15 = 
+20 = 
+25 =    45.427
+26 =    54.927
+27 =    65.927
+28 =    79.727
+29 =    93.227
+30 =   110.714
+35 = 
+40 = 
+45 =
+50 = 1.377.245
